@@ -7,4 +7,8 @@ name = input("Enter your name: ").strip()
 if name == "":
   name = "Traveler"
 
+print(f"\Welcome, {name}.")
+print("""
+
+
 
