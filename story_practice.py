@@ -1,4 +1,4 @@
-print("=" * 50)
+print("xo" * 50)
 print("      Red Hood Fanfic       ")
 print("=" * 50)
 
